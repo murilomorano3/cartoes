@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     "Programção",
     "O que é uma função?",
-    "Uma função é um bloco de códgigo que executa alguma tarefa"
+    "Uma função é um bloco de código que executa alguma tarefa"
 )
 
 criaCartao (
